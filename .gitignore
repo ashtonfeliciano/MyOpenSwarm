@@ -183,4 +183,8 @@ cython_debug/
 
 .agency_swarm/
 third_party/
-.claude/
+.claude/api_secrets.env
+gcp-key.json
+*.bak
+shared_instructions.md.bak.*
+.git-credentials
