@@ -1,3 +1,19 @@
+# MyOpenSwarm — Personal Deployment
+
+> Personal fork of [OpenSwarm](https://github.com/openswarm-ai/openswarm) — a multi-agent AI framework built on Agency Swarm. This fork adapts the project for my self-hosted environment.
+
+**What I customized:**
+- Custom `shared_instructions.md` defining agent behavior and task routing for my personal workflow
+- Docker Compose configuration adapted for a self-hosted Linux server
+- LiteLLM proxy integration for multi-model routing (Claude, GPT, Gemini)
+- Patches to agent routing and output handling
+
+---
+
+*Original project README below.*
+
+---
+
 <div align="center">
 
 # 🚀 OpenSwarm
